@@ -1,5 +1,4 @@
 // The Play SBT plugin:
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.4.3")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.1")
 
-// sbteclipse -- type `eclipse` in SBT to generate Eclipse project files:
-addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "4.0.0")
+resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"

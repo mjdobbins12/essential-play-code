@@ -1,0 +1,17 @@
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\onefi\source\repos\essential-play-code'
+INFO  time: initialize in 2.25s
+WARN  no build tool detected in workspace 'C:\Users\onefi\source\repos\essential-play-code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\onefi\source\repos\essential-play-code\chapter1-hello\app\controllers\AppController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\onefi\source\repos\essential-play-code\chapter1-hello\test\controllers\AppSpec.scala
+Apr 14, 2020 12:05:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 14, 2020 12:05:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\onefi\source\repos\essential-play-code'
+INFO  time: initialize in 2.64s
+WARN  no build tool detected in workspace 'C:\Users\onefi\source\repos\essential-play-code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\onefi\source\repos\essential-play-code\chapter1-hello\app\controllers\AppController.scala
+Apr 14, 2020 12:10:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
