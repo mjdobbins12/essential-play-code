@@ -1,6 +1,6 @@
 lazy val time = project.in(file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
   "joda-time" % "joda-time" % "2.0"

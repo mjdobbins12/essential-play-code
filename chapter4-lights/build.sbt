@@ -1,6 +1,6 @@
 lazy val lights = project.in(file("."))
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
   json,
