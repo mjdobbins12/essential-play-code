@@ -127,3 +127,5 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "git" not install
 	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:745)
 	... 15 more
 
+WARN  no build target for: C:\Users\onefi\source\repos\essential-play-code\chapter1-hello\test\controllers\AppSpec.scala
+WARN  no build target for: C:\Users\onefi\source\repos\essential-play-code\new-chapters\c1-hello\app\controllers\HomeController.scala
